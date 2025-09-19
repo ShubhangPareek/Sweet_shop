@@ -148,9 +148,9 @@ tests/test_sweets.py ..       [100%]
 
 ## 🖼 Screenshots
 
-| Home View | Admin Panel | Login |
+| Home View | Admin Panel | Login Page |
 |-----------|-------------|-------------|
-| ![dashboard](img/dashboard.png) | ![admin](img/admin.png) |![admin](img/login_page.png) |
+| ![dashboard](img/dashboard.png) | ![admin](img/admin.png) | ![login](img/login_page.png) |
 
 ## 🤖 My AI Usage
 
