@@ -106,8 +106,8 @@ Backend → `http://localhost:8000`
 ## 🔒 Admin Credentials (for testing)
 
 ```bash
-email: admin@example.com
-password: admin123
+email: pareekshubhang@gmail.com
+password: 12345678
 ```
 
 ---
@@ -150,7 +150,7 @@ tests/test_sweets.py ..       [100%]
 
 | Home View | Admin Panel |
 |-----------|-------------|
-| ![dashboard](screenshots/dashboard.png) | ![admin](screenshots/admin.png) |
+| ![dashboard](img/Screenshot2025-09-19at4.06.44 PM.png) | ![admin](img/Screenshot2025-09-19at4.06.56 PM.png) |
 
 ---
 
