@@ -1,0 +1,30 @@
+:root {
+  --bg: #ffffff;
+  --text: #000000;
+}
+
+.dark {
+  --bg: #121212;
+  --text: #ffffff;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+:root { font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #fff; color: #111; }
+.container { max-width: 980px; margin: 0 auto; padding: 24px; }
+.nav { display:flex; gap:12px; align-items:center; justify-content:space-between; padding:12px 0; border-bottom:1px solid #eee; }
+a { text-decoration: none; color: #0b5; }
+input, select, button { padding: 10px; margin: 6px 0; }
+button { cursor: pointer; }
+.card { border:1px solid #eee; border-radius:8px; padding:16px; margin:12px 0; display:flex; justify-content:space-between; align-items:center; }
+.badge { background:#eee; padding:2px 8px; border-radius:16px; font-size: 12px; }
+.row { display:flex; gap:12px; flex-wrap:wrap; }
+form { display:flex; flex-direction:column; max-width: 420px; }
+.table { width:100%; border-collapse: collapse; margin-top:12px; }
+.table th, .table td { border:1px solid #eee; padding:8px; text-align:left; }
